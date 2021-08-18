@@ -2,48 +2,57 @@
 
 ## Rules
 
-1. Stageシミュレータのフィールドに最低３か所の座標（以降、Check point と表記）を設定し、ロボットがそれらを順番に最後まで移動する。
-   1. Check point の場所は任意だが navigation によって確実に到達可能なルートを設定すること。
-   2. あまりに短距離の移動しかしていない場合は、ランキング決定時の評価（後述）で減点となる可能性がある。
-2. 各チェックポイントでは Windows Side の画像処理を活用したミニゲームを起動すること。ミニゲームにはROS Sideのロボットの動作を含めても構わない。
+1. Set three or more coordinates (hereinafter called `Check point`) on Stage simulator field. Your robot should move all of the `check points` one by one.
+   1. The `check points`' locations are arbitrary, but your robot must pass through them by [`ROS navigation`](https://github.com/oit-ipbl/robots/blob/main/robot_control/robot_control_03.md#ros-navigation). Cafully check and test your programs to ensure that the robot can reach the `check points`.
+   2. If distances between `check points` are so short, [evaluation score](#evaluation-criteria) of your programs may be low.
+2. A mini-game including Windows side [`image processing techniques`](https://github.com/oit-ipbl/image_processing) should be launched, when the robot reach each `check point`. Therefore, you should implement three mini-games at minimum.
 
 ## Submissions
 
-完成したソフトウェアに基づき、以下のものを9/3（金）のタイ時間12:00、日本時間14:00までに成果物として提出する。提出フォームは後日SLACKで公開される。
+You should submit the following materials until 9/3 12:00 (Thai), 14:00 (Jp).  
+The submission form will be annouced at SLACK.
 
-1. 各ミニゲームの説明スライド。
-   1. Team Developmentsで実施した要領で作成すること。iPBL最終日のプレゼンテーション（７分）で使用される（後述）。
-2. ミニゲームのプレイ動画。
-   1. 全てのミニゲームのプレイの様子を１０分以内の一つの動画ファイルにまとめる。
-   2. この動画はYouTubeに限定公開でアップロードされ、iPBL最終日に参加者・関係者に視聴される（後述）。
-3. ROS パッケージのソースコード (`~/catkin_ws/src`以下のディレクトリ群)。
-   1. [How to access files and directories in the ROS container](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md#how-to-access-files-and-directories-in-the-ros-container) の方法により Windows から ROS Container 内のディレクトリにアクセスし、`zip`圧縮したものを提出する。
-   2. Windows OS からは`\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\melodicvnc4_catkin_ws\_data\src`にアクセスするとディレクトリを閲覧できる。
-   3. 下図の通り`CMakeList.txt`以外のディレクトリを`zip`圧縮し、ファイル名を`teamXX.zip`（`XX`には`a, b, c...`といったチーム名が入る）として提出すること。  
+1. Slide for presentation of your mini-games.
+   1. Make 7 minitues presentation slide, like as [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
+   2. File format and edit tools are not limited.
+2. Play movie of the games.
+   1. Muximum time of the movie is 10 minitues, and should include all of your mini-games' demo play.
+   2. The movie will be uploaded with `unlisted` style, and all iPBL participants will see it for evalucation of your final-competition work.
+   3. File format is popular movie format, such as `mp4`, `wmv` and so on.
+3. ROS packages' source code, that is directories under `~/catkin_ws/src`.
+   1. Check [How to access files and directories in the ROS container](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md#how-to-access-files-and-directories-in-the-ros-container) again, and access the directories of the ROS container from Windows.
+   2. Open `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\melodicvnc4_catkin_ws\_data\src` from Windows file manager.
+   3. Make a `zip` archive of the directries. The `CMakeList.txt` is **NOT** needed. The `zip` filename is `teamXX.zip`. `XX` means you team name (`a, b, c...`).  
    ![2021-08-18_083817.svg.png](./images/2021-08-18_083817.svg.png)
 4. Windows Sideの＊＊をZIP圧縮したもの。
-5. セットアップマニュアル、ゲームの操作マニュアル。
-   1. PDFファイルで提出する。作成ツールは任意である。
+5. Operation manual of your softweare. The manual may include launch sequencs of your ROS packages and Windows side programs, play manual of your mini-games, etc.
+   1. File format is PDF. Edit tools are not limited.
 
 ## Evaluation criteria
 
-各チームが作成したプレゼンテーション、およびデモ実演、プレイ動画、相互鑑賞会での説明に基づき以下の観点から１０点満点で採点する。  
+Your work will be scored 0 to 10 points, based on the presentation, movie and demo session at the final day of this iPBL.  
 作品の一部分でも良い箇所があれば、積極的に評価すること。
+The score is composed of the following two aspects.
 
-1. Technical aspects 0～5点：技術的に優れているかどうか。
-2. Attractive aspects 0～5点：ゲームとしての面白さ、魅力に優れているか。
+1. Technical aspects (0 to 5 points): Superiority of image processing or robotics techniques.
+2. Attractive aspects (0 to 5 points): ゲームとしての面白さ、魅力に優れているか。
 
-## Presentation, scoring and ranking
+## Presentation, demo session, scoring and ranking
 
-iPBL最終日、9/4（土）のタイ時間＊＊時よりoViceで成果発表会を実施し、チームの順位付けを行う。なお、以下の全ての時刻設定は当日の進行によって変更する可能性がある。
+Final competition will be held at 9/4, the final iPBL day, from 11:00 (Thai), 13:00 (Jp). Location is oVice.  
+The competition is composed of the following parts.
 
 1. 11:00 - 13:00 Final competition Part A, team presentation.
-   1. 各チームがスライドを使って発表する。発表時間は７分、交代時間は１分である。
-   2. 発表順はランダムに決定し9/3（金）のタイ時間17:00、日本時間19:00にSLACKのgeneralチャンネルで公開される。
-2. 14:00 - 16:00 Final competition Part B, demo movie, scoring and ranking.
-   1. プレゼンテーション後、oVice上に施設されたチームごとのスペースにおいてミニゲームのデモと動画を公開しチーム相互で鑑賞しあう。この鑑賞は以下の時間割で行う。鑑賞中の質疑は英語で行わなければならない。
-   2. 14:00 - 15:00 OIT Studentsは自由に鑑賞し、SIIT Studentsはチームのスペースで説明を担当する。
-   3. 15:00 - 16:00 SIIT Studentsは自由に鑑賞し、OIT Studentsはチームのスペースで説明を担当する。
-3. チーム相互の採点と教員採点によりランキングを決める。iPBL参加者と教員は前述した評価基準に基づき採点した合計得点（0～10点）をFormから投稿する。
-   1. 参加者は自チームの採点は行わない。
-4. Formから投稿された点数の平均点をもってランキングを発表し、表彰を行う。
+   1. 7 minitues presentation with your slide.
+   2. Presentation order is rondom, and announed at 9/3 17:00 (Thai), 19:00 (Jp) on SLACK.
+2. 14:00 - 16:00 Final competition Part B, demo session.
+   1. All teams present demo play and movie of mini-games on their demo space, which will be built on oVice. Team members should wait at the demo space for iPBL participants and audiences, and show the demo, give explanations of the games and answer the questions from the participants and audiences.  
+   Demo session is divided into the following sub-parts.
+   2. 14:00 - 15:00 OIT Students can see other teams' demo freely and should evaluate. SIIT Students should wait at their team's space and presents the demo.
+   3. 15:00 - 16:00 SIIT Students can see other teams' demo freely and should evaluate. OIT Students should wait at their team's space and presents the demo.
+3. Scoring and ranking
+   1. [As previously mentioned](#evaluation-criteria), all iPBL participants evaluate the each team's final-compmetition work with 0 to 10 points, and submit the score via MS Forms.
+   2. 参加者は自チームの採点は行わない。
+4. Ranking is determined with average score, and award will be given.
+
+Note that, the time schedules may be changed according to the situations.
