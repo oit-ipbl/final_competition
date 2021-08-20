@@ -17,7 +17,7 @@ The submission form will be annouced at SLACK.
    2. File format and edit tools are not limited.
 2. Play video of the mini-games.
    1. Muximum time of the video is 10 minitues, and should include all of the mini-games' demo play.
-   2. The video will be uploaded to YouTube with `unlisted` style, and all iPBL participants will see it for evaluation of your team's final-competition work.
+   2. The video will be uploaded to YouTube with `unlisted` style, and all iPBL participants will see it for evaluation of your team's final-competition works.
    3. File format is popular video format, such as `mp4`, `wmv` and so on.
 3. ROS packages' source code, that is directories under `~/catkin_ws/src`.
    1. Check [How to access files and directories in the ROS container](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md#how-to-access-files-and-directories-in-the-ros-container) again, and access the directories of the ROS container from Windows.
