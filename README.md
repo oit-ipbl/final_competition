@@ -52,7 +52,7 @@ The competition is composed of the following parts.
    - 13:00 - 14:00 (Thai) / 15:00 - 16:00 (Jp) SIIT Students can see other teams' demo freely and should evaluate. OIT Students should wait at their team's space and present the demo.
 3. Scoring and ranking
    - [As previously mentioned](#evaluation-criteria), all iPBL participants and audiences evaluate each team's final-compmetition works with 0 to 10 points, and submit the score via MS Forms.
-   - Enter score 0 for your team. (do not score your team.)
+   - Enter score of 0 for your team. (do not score your team.)
 4. The ranking is determined with an average score, and awards will be given.
 
 Note that, the time schedules may be changed according to the situation.
