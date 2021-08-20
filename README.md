@@ -12,17 +12,17 @@
 Each team should submit the following 5 materials by 9/3 12:00 (Thai), 14:00 (Jp).  
 The submission form will be announced on SLACK.
 
-1. Slide for presentation of your team's mini-games.
-   - Make 7 minutes presentation slide, like as [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
+1. Slide for the presentation of your team's mini-games.
+   - Make 7 minutes presentation slide, like [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
    - File format and edit tools are not specified.
 2. A video of gameplay.
-   - Maximum time of the video is 10 minutes, and should include all of the mini-games' demo play.
+   - The maximum time of the video is 10 minutes, and should include all of the mini-games' demo play.
    - The video will be uploaded to YouTube with `unlisted` style, and all iPBL participants will see it for evaluation of your team's final-competition works.
    - File format should be popular video format, such as `mp4`, `wmv` and so on.
 3. ROS packages' source code, that is zipped the files in directories under `~/catkin_ws/src`.
    - Check [How to access files and directories in the ROS container](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md#how-to-access-files-and-directories-in-the-ros-container) again, and access the directories of the ROS container from Windows.
    - Open `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\melodicvnc4_catkin_ws\_data\src` from Windows file manager.
-   - Make a `zip` archive of the directries. The `CMakeList.txt` is **NOT** needed. The `zip` filename is `teamXX.zip`. `XX` means your team name (`a, b, c...`).  
+   - Make a `zip` archive of the directories. The `CMakeList.txt` is **NOT** needed. The `zip` filename is `teamXX.zip`. `XX` means your team name (`a, b, c...`).  
    ![2021-08-18_083817.svg.png](./images/2021-08-18_083817.svg.png)
 4. Zipped files of all source codes and images for Windows Side each content.
 5. Operation manual of your softweare. The manual may include start-up procedure of your ROS packages and Windows side programs, play manual of the mini-games, etc.
