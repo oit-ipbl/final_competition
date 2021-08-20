@@ -25,13 +25,13 @@ The submission form will be annouced at SLACK.
    3. Make a `zip` archive of the directries. The `CMakeList.txt` is **NOT** needed. The `zip` filename is `teamXX.zip`. `XX` means you team name (`a, b, c...`).  
    ![2021-08-18_083817.svg.png](./images/2021-08-18_083817.svg.png)
 4. Windows Sideの＊＊をZIP圧縮したもの。
-5. Operation manual of your softweare. The manual may include start sequence of your ROS packages and Windows side programs, play manual of your mini-games, etc.
+5. Operation manual of your softweare. The manual may include start-up procedure of your ROS packages and Windows side programs, play manual of your mini-games, etc.
    1. File format is PDF. Edit tools are not limited.
 
 ## Evaluation criteria
 
 Your work will be scored 0 to 10 points, based on the presentation, video and demo session at the final day of this iPBL.  
-If there is a good part of the work, add points positively.
+If there is a good part of the work, add points positively.  
 The score is composed of the following two aspects.
 
 1. Technical aspects (0 to 5 points): Superiority of image processing or robotics techniques.
