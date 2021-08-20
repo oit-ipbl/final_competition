@@ -5,7 +5,7 @@
 1. Set 3 or more coordinates (hereinafter called `Check point`) on the Stage simulation field. Your robot should move all of the `check points` one by one.
    - The `check points`' locations are arbitrary, but your robot must pass through them by [`ROS navigation`](https://github.com/oit-ipbl/robots/blob/main/robot_control/robot_control_03.md#ros-navigation). Carefully check and test your programs to ensure that the robot can reach the `check points`.
    - If distances between `check points` are so short, [evaluation score](#evaluation-criteria) of your programs may be low.
-2. A mini-game including Windows side [`image processing techniques`](https://github.com/oit-ipbl/image_processing) should be launched, when the robot reach each `check point`. Therefore, you should implement 3 mini-games at minimum.
+2. A mini-game including Windows side [`image processing techniques`](https://github.com/oit-ipbl/image_processing) should be launched, when the robot reaches each `check point`. Therefore, you should implement 3 mini-games at a minimum.
 
 ## Submissions
 
