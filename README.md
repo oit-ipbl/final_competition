@@ -25,8 +25,8 @@ The submission form will be announced on SLACK.
    - Make a `zip` archive of the directories. The `CMakeList.txt` is **NOT** needed. The `zip` filename is `teamXX.zip`. `XX` means your team name (`a, b, c...`).  
    ![2021-08-18_083817.svg.png](./images/2021-08-18_083817.svg.png)
 4. Zipped files of all source codes and images for Windows Side each content.
-5. Operation manual of your softweare. The manual may include start-up procedure of your ROS packages and Windows side programs, play manual of the mini-games, etc.
-   - File format should be PDF. Editor tools are not specified.
+5. Operation manual of your software. The manual may include the start-up procedure of your ROS packages and Windows side programs, play manual of the mini-games, etc.
+   - The file format should be PDF. Editor tools are not specified.
 
 ## Evaluation criteria
 
@@ -47,12 +47,12 @@ The competition is composed of the following parts.
    - Presentation order is decided randomly, that is announced at 9/3 17:00 (Thai), 19:00 (Jp) on SLACK.
 2. 12:00 - 14:00 (Thai) / 14:00 - 16:00 (Jp): Final competition Part B, demo session.
    - All teams present demo play and video of their mini-games on their demo space, which will be built on oVice. Team members should wait for iPBL participants and audiences at the demo space, and show the demo, give explanations of their mini-games and answer the questions from the participants and audiences.  
-   Demo session is divided into the following sub-parts.
+   The demo session is divided into the following sub-parts.
    - 12:00 - 13:00 (Thai) / 14:00 - 15:00 (Jp) OIT Students can see other teams' demo freely and should evaluate. SIIT Students should wait at their team's space and present the demo.
    - 13:00 - 14:00 (Thai) / 15:00 - 16:00 (Jp) SIIT Students can see other teams' demo freely and should evaluate. OIT Students should wait at their team's space and present the demo.
 3. Scoring and ranking
-   - [As previously mentioned](#evaluation-criteria), all iPBL participants and audiences evaluate the each team's final-compmetition works with 0 to 10 points, and submit the score via MS Forms.
+   - [As previously mentioned](#evaluation-criteria), all iPBL participants and audiences evaluate each team's final-compmetition works with 0 to 10 points, and submit the score via MS Forms.
    - Enter score 0 for your team. (do not score your team.)
-4. Ranking is determined with average score, and awards will be given.
+4. The ranking is determined with an average score, and awards will be given.
 
-Note that, the time schedules may be changed according to the situations.
+Note that, the time schedules may be changed according to the situation.
