@@ -36,23 +36,3 @@ The score is composed of the following 2 aspects.
 
 1. Technical aspects (0 to 5 points): Superiority of image processing or robotics techniques.
 2. Attractive aspects (0 to 5 points): Attraction of the content.
-
-## Presentation, demo session, scoring and ranking
-
-The final competition will be held on oVice on 9/4, the final iPBL day, from 9:00 (Thai), 11:00 (Jp).  
-The competition is composed of the following parts.
-
-1. 9:00 - 11:00 (Thai) / 11:00 - 13:00 (Jp): Final competition Part A, team presentation.
-   - 7 minutes presentation with your slide.
-   - Presentation order is decided randomly, that is announced at 9/3 17:00 (Thai), 19:00 (Jp) on SLACK.
-2. 12:00 - 14:00 (Thai) / 14:00 - 16:00 (Jp): Final competition Part B, demo session.
-   - All teams present demo play and video of their mini-games on their demo space, which will be built on oVice. Team members should wait for iPBL participants and audiences at the demo space, and show the demo, give explanations of their mini-games and answer the questions from the participants and audiences.  
-   The demo session is divided into the following sub-parts.
-   - 12:00 - 13:00 (Thai) / 14:00 - 15:00 (Jp) OIT Students can see other teams' demo freely and should evaluate. SIIT Students should wait at their team's space and present the demo.
-   - 13:00 - 14:00 (Thai) / 15:00 - 16:00 (Jp) SIIT Students can see other teams' demo freely and should evaluate. OIT Students should wait at their team's space and present the demo.
-3. Scoring and ranking
-   - [As previously mentioned](#evaluation-criteria), all iPBL participants and audiences evaluate each team's final-compmetition works with 0 to 10 points, and submit the score via MS Forms.
-   - Enter a score of 0 for your team. (do not score your team.)
-4. The ranking is determined with an average score, and awards will be given.
-
-Note that, the time schedules may be changed according to the situation.
