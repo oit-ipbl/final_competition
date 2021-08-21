@@ -31,7 +31,7 @@ The submission form will be announced on SLACK.
 ## Evaluation criteria
 
 The final-competition works will be scored 0 to 10 points, based on the presentation, video, and demo session on the final day of this iPBL.  
-If there is a good part of the work, add points positively.  
+<!-- If there is a good part of the work, add points positively.  -->
 The score is composed of the following 2 aspects.
 
 1. Technical aspects (0 to 5 points): Superiority of image processing or robotics techniques.
