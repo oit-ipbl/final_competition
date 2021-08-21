@@ -14,7 +14,7 @@ The submission form will be announced on SLACK.
 
 1. Slide for the presentation of your team's mini-games.
    - Make 7 minutes presentation slide, like [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
-   - File format and edit tools are not specified.
+   - File format and editor tools are not specified.
 2. A video of gameplay.
    - The maximum time of the video is 10 minutes, and should include all of the mini-games' demo play.
    - The video will be uploaded to YouTube with `unlisted` style, and all iPBL participants will see it for evaluation of your team's final-competition works.
