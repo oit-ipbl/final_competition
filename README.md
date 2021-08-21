@@ -31,12 +31,12 @@ The submission form will be announced on SLACK.
 
 ## Evaluation criteria
 
-The final competition work will be graded on a scale of 0 to 10 by each student based on the presentation, video and demo session on the last day of this iPBL.
+The final competition work will be graded by each student based on the presentation, video and demo session on the last day of this iPBL.
 <!-- If there is a good part of the work, add points positively.  -->
 The score is composed of the following 2 aspects.
 
-1. Technical aspects (0 to 5 points): Superiority of image processing or robotics techniques.
-2. Attractive aspects (0 to 5 points): Attraction of the content.
+1. Technical aspects (0 to 5 points): Technical excellence in image processing and robot programming. Evaluate the quality and quantity based on the technical perspective of the product.
+2. Attractiveness aspects (0 to 5 points): Attractiveness of the content. Evaluate the extent to which you found the presentations, videos, and demonstrations to be attractiveness.
 
 ## Reference
 
