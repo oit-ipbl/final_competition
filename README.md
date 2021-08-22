@@ -1,5 +1,15 @@
 # Final competition
 
+## Introduction
+
+Now, for the final competition, you are going to develop a program that combines robotics and image processing, referring to the team exercise 1 in pre-learning.
+In the team exercise 1, you have developed a program that simply combined Robot and image processing.
+In the final competition, you will develop a more sophisticated story-based program in which robots and person interact, like dungeon exploring etc..
+We hope that you will be able to program an attractive and fun robot-human interaction!
+
+The slides submitted by each team in [Team Exercise 1 of the pre-learning](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development) will be made available on Slack. For the final competition, please refer to the slides of other teams and do your best!
+
+
 ## Rules
 
 1. Set 3 or more coordinates (hereinafter called `Check point`) on the Stage simulation field. Your robot should move all of the `check points` one by one.
@@ -38,6 +48,3 @@ The score is composed of the following 2 aspects.
 1. Technical aspects (0 to 5 points): Technical excellence in image processing and robot programming. Evaluate the quality and quantity based on the technical perspective of the product.
 2. Attractiveness aspects (0 to 5 points): Attractiveness of the content. Evaluate the extent to which you found the presentations, videos, and demonstrations to be attractiveness.
 
-## Reference
-
-The slides submitted by each team in [Team Exercise 1 of the pre-learning](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development) will be made available on Slack. For the final competition, please refer to the slides of other teams and do your best!
