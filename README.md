@@ -4,7 +4,6 @@
 
 Now, for the final competition, you are going to develop a program that combines robotics and image processing, referring to the team exercise 1 in pre-learning.
 In the team exercise 1, you have developed a program that simply combined Robot and image processing.
-
 In the final competition, you will develop a more sophisticated story-based program in which robots and person interact, like dungeon exploring etc..
 We hope that you will be able to program an attractive and fun robot-human interaction!
 
