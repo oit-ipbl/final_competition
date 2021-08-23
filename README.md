@@ -42,7 +42,7 @@ The submission form will be announced on SLACK.
 ## Evaluation criteria
 
 - The final competition work will be graded by each student based on the presentation, video and demo session on the last day of this iPBL.
-  - The final presentation will consist of [two parts](https://github.com/oit-ipbl/portal#closing-ceremony94). In the first part, you will give a presentation, and in the second part, you will demonstrate your program in each team area of oVice.
+  - The final presentation will consist of [two parts](https://github.com/oit-ipbl/portal#closing-ceremony94). In the first part, you will give a presentation, and in the second part, you will demonstrate your program (demo session) in each team area of oVice.
 - The score is composed of the following 2 aspects.
 
 1. Technical aspects (0 to 5 points): Technical excellence in image processing and robot programming. Evaluate the quality and quantity based on the technical perspective of the product.
