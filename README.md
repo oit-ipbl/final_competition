@@ -24,7 +24,7 @@ The submission form will be announced on SLACK.
 
 1. Slide for the presentation of your team's program.
    - Make 7 minutes presentation slide, like [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
-   - File format and editor tools are not specified.
+   - The file format should be `PPTX` or `PDF`. Editor tools are not specified.
    - You will need to use these slides to make a presentation in front of everyone at 9/4.
 2. A video of gameplay.
    - The maximum time of the video is 10 minutes.
@@ -37,7 +37,7 @@ The submission form will be announced on SLACK.
    ![2021-08-18_083817.svg.png](./images/2021-08-18_083817.svg.png)
 4. Zipped files of all source codes and images (in the `py21/code` folder) for Windows Side each content.
 5. Operation manual of your software. The manual may include the start-up procedure of your ROS packages and Windows side programs, play manual.
-   - The file format should be PDF. Editor tools are not specified.
+   - The file format should be `PDF`. Editor tools are not specified.
 
 ## Evaluation criteria
 
