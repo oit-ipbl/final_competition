@@ -19,7 +19,7 @@ The slides submitted by each team in [Team Exercise 1 of the pre-learning](https
 
 ## Submissions
 
-Each team should submit the following 5 materials by 9/3 12:00 (Thai), 14:00 (Jp).  
+Each team should submit the following 5 materials by 9/3 22:00 (Thai), 24:00 (Jp).  
 The submission form will be announced on SLACK.
 
 1. Slide for the presentation of your team's program.
