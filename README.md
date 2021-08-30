@@ -32,7 +32,7 @@ The submission form will be announced on SLACK.
    - File format should be popular video format, such as `mp4`, `wmv` and so on.
 3. ROS packages' source code, that is zipped the files in directories under `~/catkin_ws/src`.
    - Check [How to access files and directories in the ROS container](https://github.com/oit-ipbl/portal/blob/main/setup/dockerros.md#how-to-access-files-and-directories-in-the-ros-container) again, and access the directories of the ROS container from Windows.
-   - Open `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\melodicvnc4_catkin_ws\_data\src` from Windows file manager.
+   - Open `\\wsl$\docker-desktop-data\version-pack-data\community\docker\volumes\melodicvnc_catkin_ws\_data\src` from Windows file manager.
    - Make a `zip` archive of the directories. The `CMakeList.txt` is **NOT** needed. The `zip` filename is `teamXX.zip`. `XX` means your team name (`a, b, c...`).  
    ![2021-08-18_083817.svg.png](./images/2021-08-18_083817.svg.png)
 4. Zipped files of all source codes and images (in the `py21/code` folder) for Windows Side each content.
