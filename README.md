@@ -26,7 +26,7 @@ The submission form will be announced on SLACK.
    - Make 7 minutes presentation slide, like [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
    - The file format should be `PPTX` or `PDF`. Editor tools are not specified.
    - You will need to use these slides to make a presentation in front of everyone at 9/4.
-2. A video of gameplay.
+2. Youtube video(demo movie) URL.
    - The maximum time of the video is 10 minutes.
    - The video will be uploaded to YouTube with `unlisted` style, and all iPBL participants will see it for evaluation of your team's final-competition works.
    - File format should be popular video format, such as `mp4`, `wmv` and so on.
