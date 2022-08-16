@@ -37,9 +37,9 @@ The submission form will be announced on SLACK.
    - The file format should be `PDF`.
    - Since some students cannot participate in Part A, we will hold a demo session and poster exhibition in Part A and a team presentation in Part B.
 6. Slide for the presentation of your team's program.
-   - Make 7 minutes presentation slide, like [Exercise1 (team development)](https://github.com/oit-ipbl/Integration/blob/main/team_exercise/team_exercise.md#exercise1-team-development).
+   - Make 7 minutes presentation slide which can explain attractive points and algorithms of your games.
    - The file format should be `PPTX` or `PDF`. Editor tools are not specified.
-   - You will need to use these slides to make a presentation in front of everyone at 9/4. 
+   - You will need to use these slides to make a presentation in front of everyone at 9/4.
 
 ## Evaluation criteria
 
