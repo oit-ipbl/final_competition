@@ -11,8 +11,8 @@ You must deliver the medical supplies to each of these locations by autopiloting
 3. Automatic control
 4. Each team can try 3 times.
 
-5. Point
-30 points for red city
-20 points for blue town
-10 points for green village
+## Point
+- 30 points for red city
+- 20 points for blue town
+- 10 points for green village
 
