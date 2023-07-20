@@ -5,7 +5,6 @@ OIT cities include red cities, blue towns, and green villages. There was a recen
 The red city has a very large helipad. The blue town has a large helipad. The green village has a small helipad.
 You must deliver the medical supplies to each of these locations by autopiloting your tello. Save all the places!
 
-
 ## Rules
 1. Changing the speed is prohibited.
 2. Use Python.
