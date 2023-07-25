@@ -15,6 +15,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 4. Four landings
 5. Cannot land twice in the same city
 6. Landing inside the area
+7. No need to return to the starting point.
 
 ## Evaluation
 - Red city is 1 points
