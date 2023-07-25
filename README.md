@@ -5,7 +5,7 @@ OIT cities include red city, blue town, and green village. There was a recent fl
 It is difficult to get to each city. 
 Each place is short of medical supplies. 
 You need to deliver the medical supplies by Tello.
-<img width="1200" src="/images/drone.png">
+
 The red city has a very large helipad. The blue town has a large helipad. The green village has a small helipad.
 You must deliver the medical supplies to each of these locations by autopiloting your tello. Save all people all the places.
 
@@ -20,3 +20,4 @@ You must deliver the medical supplies to each of these locations by autopiloting
 - Red city is 1 points
 - Blue town is 2 points 
 - Green village is 3 points
+<img width="1200" src="/images/drone.png">
