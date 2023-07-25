@@ -20,8 +20,8 @@ You must deliver the medical supplies to each of these locations by autopiloting
 8. In the next lap, change the location of the city
 
 ## Points
-- Red city is 1 points
-- Blue town is 2 points 
+- Blue city is 1 points
+- Red town is 2 points 
 - Green village is 3 points
 
 ## Presentation
