@@ -11,7 +11,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 ## Rules (Possibility of change)
 1. Don't change the speed of the tello
 2. Automatic control use Python
-3. Each team can try 2 times
+3. Each team can try 2 times (After all teams have finished, if there is time, a next lap will be conducted.)
 4. Up to four landings
 5. Can't land twice in the same city
 6. Landing inside the area (0 points if out of area)
