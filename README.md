@@ -16,7 +16,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 5. Can't land twice in the same city
 6. Landing inside the area (0 points if out of area)
 7. No need to return to the starting point
-8. The location of each city will be changed after all teams have executed
+8. In the next lap, change the location of the city
 
 ## Points
 - Red city is 1 points
