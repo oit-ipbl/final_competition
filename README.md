@@ -11,7 +11,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 ## Rules
 1. do not change speed
-2. Automatic control　use Python
+2. Automatic control use Python
 3. Each team can try 2 times
 4. Four landings
 
@@ -19,4 +19,3 @@ You must deliver the medical supplies to each of these locations by autopiloting
 - Red city is 1 points
 - Blue town is 2 points 
 - Green village is 3 points
-
