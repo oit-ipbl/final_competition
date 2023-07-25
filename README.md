@@ -20,4 +20,12 @@ You must deliver the medical supplies to each of these locations by autopiloting
 - Red city is 1 points
 - Blue town is 2 points 
 - Green village is 3 points
+## Presentation
+- Please present your team strategy(OIT Student)
+
+## Final competition
+- Compete for total points
+
+
+
 <img width="800" src="/images/drone.png">
