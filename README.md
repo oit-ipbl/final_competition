@@ -14,7 +14,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 3. Each team can try 2 times
 4. Up to four landings
 5. Can't land twice in the same city
-6. Landing inside the area
+6. Landing inside the area (0 points if out of area)
 7. No need to return to the starting point
 8. The location of each city will be changed after all teams have executed
 
