@@ -14,6 +14,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 2. Automatic control use Python
 3. Each team can try 2 times
 4. Four landings
+5. Cannot land twice in the same city
 
 ## Evaluation
 - Red city is 1 points
