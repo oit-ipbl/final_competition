@@ -11,10 +11,9 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 ## Rules
 1. Changing the speed is prohibited
-2. Use Python
-3. Automatic control
-4. Each team can try 2 times
-5. Four landings
+2. Automatic control　use Python
+3. Each team can try 2 times
+4. Four landings
 
 ## Evaluation
 - 1 points for red city
