@@ -20,4 +20,4 @@ You must deliver the medical supplies to each of these locations by autopiloting
 - Red city is 1 points
 - Blue town is 2 points 
 - Green village is 3 points
-<img width="1200" src="/images/drone.png">
+<img width="800" src="/images/drone.png">
