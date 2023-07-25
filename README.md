@@ -13,10 +13,10 @@ You must deliver the medical supplies to each of these locations by autopiloting
 1. Changing the speed is prohibited
 2. Use Python
 3. Automatic control
-4. Each team can try 3 times.
+4. Each team can try 2 times
 
 ## Evaluation
-- 30 points for red city
-- 20 points for blue town
-- 10 points for green village
+- 1 points for red city
+- 2 points for blue town
+- 3 points for green village
 
