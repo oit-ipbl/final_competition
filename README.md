@@ -7,7 +7,7 @@ Each place is short of medical supplies.
 You need to deliver the medical supplies by Tello.
 
 The red city has a very large helipad. The blue town has a large helipad. The green village has a small helipad.
-You must deliver the medical supplies to each of these locations by autopiloting your tello. Save all the places!
+You must deliver the medical supplies to each of these locations by autopiloting your tello. Save all the places of people
 
 ## Rules
 1. do not change speed
