@@ -10,7 +10,7 @@ The red city has a very large helipad. The blue town has a large helipad. The gr
 You must deliver the medical supplies to each of these locations by autopiloting your tello. Save all the places!
 
 ## Rules
-1. Changing the speed is prohibited
+1. do not change speed
 2. Automatic control　use Python
 3. Each team can try 2 times
 4. Four landings
