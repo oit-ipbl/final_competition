@@ -16,7 +16,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 4. Four landings
 
 ## Evaluation
-- 1 points for red city
-- 2 points for blue town
-- 3 points for green village
+- Red city is 1 points
+- Blue town is 2 points 
+- Green village is 3 points
 
