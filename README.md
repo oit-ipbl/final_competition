@@ -1,7 +1,7 @@
 # Final_competition
 
 ## Introduction
-OIT cities include red city, blue town, and green village. There was a recent flood.
+OIT state have red city, blue town, and green village. There was a recent flood.
 It is difficult to get to each city. 
 Each place is short of medical supplies. 
 You need to deliver the medical supplies by Tello.
