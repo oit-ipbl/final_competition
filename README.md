@@ -18,7 +18,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 7. No need to return to the starting point
 8. The location of each city will be changed after all teams have executed
 
-## Evaluation
+## Points
 - Red city is 1 points
 - Blue town is 2 points 
 - Green village is 3 points
@@ -26,8 +26,9 @@ You must deliver the medical supplies to each of these locations by autopiloting
 ## Presentation
 - Please present your team strategy(OIT Student)
 
-## Final competition
+## Evaluation
 - Compete for total points
+- If there are teams with the same points, the teams will be ranked according to their presentation points.
 
 
 
