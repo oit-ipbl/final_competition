@@ -26,7 +26,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 - Green village is 3 points
 
 ## Presentation
-- Please present your team strategy(OIT Student)
+- Please present your team strategy(only OIT Student)
 - A two to three minute presentation at the beginning of the competition
 
 ## Evaluation
