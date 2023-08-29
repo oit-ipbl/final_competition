@@ -31,7 +31,6 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 ## Evaluation
 - Compete for total points
-- If there are teams with the same points, the teams will be ranked according to their presentation points
 
 
 
