@@ -34,6 +34,6 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 <img width="800" src="/images/drone.png">
 
-## Field
+## Final_competition Field
 - Room 1402
 <img width="1600" src="/images/field.png">
