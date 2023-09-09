@@ -19,7 +19,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 7. No need to return to the starting point
 8. In the next lap, change the location of the city(Or change the starting position)
 9. The red town and the blue city have targets for lading. The target and the heliport are a distance of one tello
-
+10. Don't touch the keyboard after pressing the Run key. (If you touch the keyboard, it is assumed to be failur
 ## Points
 - Blue city is 1 points
 - Red town is 2 points 
@@ -27,7 +27,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 ## Presentation
 - Please present your team strategy(only OIT Student)
-- presentation at the beginning of the competition (three minute)
+- presentation at the beginning of the competition (three minutes)
 
 ## Evaluation
 - Compete for total points
