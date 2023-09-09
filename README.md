@@ -32,8 +32,6 @@ You must deliver the medical supplies to each of these locations by autopiloting
 ## Evaluation
 - Compete for total points
 
-
-
 <img width="800" src="/images/drone.png">
 
 ## Field
