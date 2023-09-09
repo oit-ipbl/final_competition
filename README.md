@@ -27,7 +27,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 ## Presentation
 - Please present your team strategy(only OIT Student)
-- A two to three minute presentation at the beginning of the competition
+- presentation at the beginning of the competition (three minute)
 
 ## Evaluation
 - Compete for total points
