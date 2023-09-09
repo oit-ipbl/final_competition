@@ -36,4 +36,4 @@ You must deliver the medical supplies to each of these locations by autopiloting
 
 ## Field
 
-<img width="1600" src="/images/filed.jpg">
+<img width="1600" src="/images/field.png">
