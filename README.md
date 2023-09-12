@@ -20,6 +20,7 @@ You must deliver the medical supplies to each of these locations by autopiloting
 8. In the next lap, change the location of the city(Or change the starting position)
 9. The red town and the blue city have targets for lading. The target and the heliport are a distance of one tello
 10. Don't touch the keyboard after pressing the Run key. (If you touch the keyboard, it is assumed to be failur)
+11. The tello can take off from any city.
 ## Points
 - Blue city is 1 points
 - Red town is 2 points 
